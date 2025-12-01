@@ -43,7 +43,7 @@ A robust NestJS-based backend application for managing parking lots, including f
 -->
 </details>
 
-### 🎟️ [Event Ticket Reservation System](https://github.com/KPR23/eventix)
+### 🎟️ [Event Ticket Reservation System (Migration in progress)](https://github.com/KPR23/eventix)
 
 A ticket reservation application that enables users to explore events, view detailed information, and purchase tickets. Built according to the MVC (Model-View-Controller) architecture.
 
