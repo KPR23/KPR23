@@ -65,4 +65,4 @@ A ticket reservation application that enables users to explore events, view deta
 - Stripe Integration: Secure online payments.
 - UploadThing Integration: Upload event posters.
 
-</details>
+</details>tt
