@@ -6,6 +6,12 @@
 
 ## 📂 My projects
 
+### 📸 [Relive](https://github.com/KPR23/relive)
+
+Relive is a modern photo gallery application designed for sharing and organizing photos with family and close friends.
+
+• Next.js 16 • NestJS • TailwindCSS 4 • Better-Auth • tRPC • Turborepo • TypeScript
+
 ### 🚗 [Parking management API](https://github.com/KPR23/parking-management-api)
 
 A robust NestJS-based backend application for managing parking lots, including features for cameras, gates, payments, and subscriptions.
@@ -66,3 +72,5 @@ A ticket reservation application that enables users to explore events, view deta
 - UploadThing Integration: Upload event posters.
 
 </details>
+
+
