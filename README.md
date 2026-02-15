@@ -1,7 +1,8 @@
 ## Hi, I'm Kacper 👋
 - 🖥️ Junior Software Engineer
 - 🌱 Actively improving my programming skills
-- ⚙️ Tech Stack: React, Next.js, Nest.js, Typescript, Node.js, Docker
+- ⚙️ Tech Stack: React, Nest.js, Typescript, Node.js, Docker
+- 🔗 Portfolio: [Link](https://kacperzabludowski.vercel.app)
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/kacperzabludowski/)
 
 ## 📂 My projects
