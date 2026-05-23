@@ -1,6 +1,6 @@
 # Hi, I'm Kacper 👋
 
-- 🖥️ Software Engineer @ Starburst
+- 🖥️ Software Engineer Intern @ Starburst
 - 🌱 Currently mastering **Fullstack Development** with a focus on Type-safety.
 - 🔗 Portfolio: [kacperzabludowski.vercel.app](https://kacperzabludowski.vercel.app)
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kacperzabludowski/)
