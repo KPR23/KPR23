@@ -1,6 +1,6 @@
 # Hi, I'm Kacper 👋
 
-- 🖥️ Software Engineer Intern @ [Starburst](https://starburst.io/)
+- 🖥️ Software Engineer
 - 🔗 Portfolio: [kacperzabludowski.vercel.app](https://kacperzabludowski.vercel.app)
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kacperzabludowski/)
 
