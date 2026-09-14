@@ -1,4 +1,4 @@
-## Hi, I'm Kacper 👋
+## 👋 Hi, I'm Kacper 
 
 - 💻 Software Engineer
 - 🔗 Portfolio: [kacperzabludowski.vercel.app](https://kacperzabludowski.vercel.app)
