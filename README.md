@@ -1,32 +1,35 @@
-# Hi, I'm Kacper 👋
-
+## 👨‍💻 Kacper Zabłudowski 
 - 🖥️ Software Engineer
-- 🔗 Portfolio: [kacperzabludowski.vercel.app](https://kacperzabludowski.vercel.app)
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kacperzabludowski/)
+- 🔗 Portfolio: [URL](https://kacperzabludowski.vercel.app)
+- 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/kacperzabludowski/)
 
-<p align="center">
-  <br />
-  <a href="https://kacperzabludowski.vercel.app/projects" target="_blank">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-Click_Here-blueviolet?style=for-the-badge&logo=vercel&logoColor=white&labelColor=31333f" alt="Kacper's Projects" height="45">
-  </a>
-  <br />
-</p>
+## 🛠️ Primary Technologies
 
-## 🛠️ My Tech Stack
-
-### ⚡ Frontend & Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Database
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔧 Tools & Architecture
-`tRPC` • `Drizzle ORM` • `Prisma` • `Turborepo` • `Zod` • `Stripe` • `MVC` • `Zustand` • `AWS` • `CI/CD` • `Cursor`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&logo=expo&logoColor=black">
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=swift&logoColor=black">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Nest.js-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=black">
+  <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postgres-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black">
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+</picture>
