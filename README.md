@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kacper 
 
-- 💻 Software Engineer
+- 💻 Software Engineer @ Starburst
 - 🔗 Portfolio: [kacperzabludowski.vercel.app](https://kacperzabludowski.vercel.app)
 - 📫 Get in touch:
   - [LinkedIn](https://www.linkedin.com/in/kacperzabludowski/)
